@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me  
 
-I'm **Jaikrishna**, a **final-year Computer Science student** passionate about building **creative and meaningful full-stack applications**.  
+I'm **Jaikrishna**, a **final-year BSc Information Technology student** passionate about building **creative and meaningful full-stack applications**.  
 I enjoy turning ideas into functional, scalable web experiences using modern technologies.  
 
 💡 I believe true innovation happens when **creativity meets logic**.  
