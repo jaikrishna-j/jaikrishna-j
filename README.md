@@ -76,8 +76,6 @@ I'm **Jaikrishna**, a **final-year BSc Information Technology student** passiona
 
 ---
 
-### 🧩 Typing Animation  
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;AI+%26+ML+Learner;Creative+Problem+Solver;Tech+Enthusiast+%26+Fast+Learner;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </p>
