@@ -87,5 +87,3 @@ I'm **Jaikrishna**, a **final-year BSc Information Technology student** passiona
 </p>
 
 ---
-
-⭐️ *Crafted with purpose by [Jaikrishna](https://github.com/jaikrishna-j)*
