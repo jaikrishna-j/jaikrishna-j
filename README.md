@@ -85,5 +85,3 @@ I'm **Jaikrishna**, a **final-year BSc Information Technology student** passiona
 <p align="center">
   <em>"Building meaningful digital experiences through creativity and code."</em>  
 </p>
-
----
