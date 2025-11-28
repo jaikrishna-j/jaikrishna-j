@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi animated hand" />
 </h1>
 
-<h3 align="center">🚀 Final Year Computer Science Student | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Final Year Information Technology Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="coding animation">
