@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/jaikrishna-j/" target="_blank" style="text-decoration: none; color: inherit;">
     Jaikrishna
   </a>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi animated hand" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" />
 </h1>
 
 I’m an Information Technology student and full-stack developer who enjoys turning ideas into functional products. I focus on building scalable applications with clean architecture, logical problem-solving, and modern web technologies.
@@ -41,7 +41,7 @@ I’m an Information Technology student and full-stack developer who enjoys turn
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="httpsimg.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🧠 AI & Data Science  
