@@ -73,11 +73,11 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ## 🎉 Fun Facts About Me
 
-- I start more ideas than I finish — but the good ones always make it to production  
-- Debugging gives me more dopamine than scrolling social media  
-- I can survive without coffee, but not without **VS Code**  
-- I believe every idea deserves a prototype — even bad ones  
-- My brain autocorrects broken code faster than broken English  
+- I enjoy breaking complex problems into simple, logical steps — it's my version of fun  
+- I learn faster by building things rather than just reading about them  
+- I document my code so future-me doesn’t hate past-me  
+- I often refactor projects even when they already work — “works” isn’t the same as “right”  
+- I get more excited shipping a feature than finishing a TV series  
 
 ---
 
