@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Hi, I'm 
   <a href="https://www.linkedin.com/in/jaikrishna-j/" target="_blank" style="text-decoration: none; color: inherit;">
     Jaikrishna
@@ -15,6 +15,12 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 - Learning advanced concepts in **AI/ML**, **PostgreSQL**, and **Cloud Deployments**
 - Developing full-stack applications and improving backend performance
 - Sharpening system design fundamentals and exploring production-grade deployments
+
+---
+
+## 🌐 Portfolio
+
+📎 Visit my personal portfolio → **https://jaikrishna-portfolio.vercel.app/**
 
 ---
 
