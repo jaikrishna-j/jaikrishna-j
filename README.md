@@ -1,87 +1,101 @@
 <h1 align="center">
-  Hi there, I'm 
+  Hi, I'm 
   <a href="https://www.linkedin.com/in/jaikrishna-j/" target="_blank" style="text-decoration: none; color: inherit;">
     Jaikrishna
   </a>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi animated hand" />
 </h1>
 
-<h3 align="center">🚀 Final Year Information Technology Student | Full-Stack Developer | Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="coding animation">
-</p>
+I’m an Information Technology student and full-stack developer who enjoys turning ideas into functional products. I focus on building scalable applications with clean architecture, logical problem-solving, and modern web technologies.
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 What I'm Currently Doing
 
-I'm **Jaikrishna**, a **final-year BSc Information Technology student** passionate about building **creative and meaningful full-stack applications**. I enjoy turning ideas into functional, scalable web experiences using modern technologies.  
-
-💡 I believe true innovation happens when **creativity meets logic**.  
-🌱 Currently exploring **AI/ML**, **PostgreSQL**, and **Cloud Deployments**.  
-🎯 Aspiring to become a **Full-Stack Engineer** who builds products that make a difference.  
+- Learning advanced concepts in **AI/ML**, **PostgreSQL**, and **Cloud Deployments**
+- Developing full-stack applications and improving backend performance
+- Sharpening system design fundamentals and exploring production-grade deployments
 
 ---
 
-### 🧠 Skills & Technologies  
+## 🛠️ Tech Stack
 
-#### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=light&perline=8" alt="Languages I use" />
-
-#### ⚙️ Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=django,react,nextjs,flask&theme=light&perline=8" alt="Frameworks and libraries" />
-
-#### 🧩 AI & Machine Learning  
+### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" />
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" height="45" alt="Seaborn" />
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=light" width="45" height="45" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" /> C &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> CSS
 </p>
 
-#### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light&perline=8" alt="Databases I work with" />
-
-#### 🧰 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,docker,postman,figma,vscode&theme=light&perline=8" alt="Developer tools" />
-
----
-
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaikrishna-j&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaikrishna-j&theme=tokyonight" width="48%" />
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
+  <img src="https://skillicons.dev/icons?i=django" /> Django &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" /> Flask
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikrishna-j&theme=react-dark" alt="activity graph" />
+### 🧠 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" /> NumPy &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" /> Pandas &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" /> Matplotlib &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" /> Seaborn &nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="45" /> Scikit-learn
 </p>
 
----
-
-### 🤝 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaikrishna-j/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jaikrishnajaisankar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;AI+%26+ML+Learner;Creative+Problem+Solver;Tech+Enthusiast+%26+Fast+Learner;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" /> Postman &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> Figma &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" /> VS Code
 </p>
 
 ---
 
+## 🎯 Highlights & Interests
+
+- Building full-stack apps that solve real problems
+- Understanding system workflows, database logic, and scalable application design
+- Exploring how AI integrates with modern web technologies
+- Passionate about clean UI, efficient code, and meaningful digital experiences
+
+---
+
+## 📊 GitHub Insights
+
 <p align="center">
-  <em>"Building meaningful digital experiences through creativity and code."</em>  
+  <img src="https://github-readme-stats.vercel.app/api?username=jaikrishna-j&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaikrishna-j&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikrishna-j&theme=react-dark" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+| 💼 LinkedIn | 📧 Email |
+| :--------: | :------: |
+| [jaikrishna-j](https://www.linkedin.com/in/jaikrishna-j/) | [jaikrishnajaisankar2005@gmail.com](mailto:jaikrishnajaisankar2005@gmail.com) |
+
+---
+
+<p align="center">
+  <em>"Building meaningful digital experiences through creativity and code."</em>
 </p>
