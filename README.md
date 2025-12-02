@@ -41,7 +41,7 @@ I’m an Information Technology student and full-stack developer who enjoys turn
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img src="httpsimg.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🧠 AI & Data Science  
@@ -71,12 +71,13 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ---
 
-## 🎯 Highlights & Interests
+## 🎉 Fun Facts About Me
 
-- Building full-stack apps that solve real problems  
-- Understanding logic behind system workflows and scalable backend design  
-- Exploring how AI integrates with modern web technologies  
-- Passionate about clean UI, efficient code, and impactful digital experiences
+- I overthink UI design more than my life decisions  
+- Debugging gives me more dopamine than scrolling social media  
+- I can survive without coffee, but not without **VS Code**  
+- I believe every idea deserves a prototype — even bad ones  
+- My brain autocorrects broken code faster than broken English  
 
 ---
 
