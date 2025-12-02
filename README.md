@@ -73,7 +73,7 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ## 🎉 Fun Facts About Me
 
-- I overthink UI design more than my life decisions  
+- I start more ideas than I finish — but the good ones always make it to production  
 - Debugging gives me more dopamine than scrolling social media  
 - I can survive without coffee, but not without **VS Code**  
 - I believe every idea deserves a prototype — even bad ones  
@@ -89,6 +89,4 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ---
 
-<p align="center">
-  <em>"Building meaningful digital experiences through creativity and code."</em>
-</p>
+> *See you around!*
