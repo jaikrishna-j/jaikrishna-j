@@ -20,71 +20,57 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
+### 🚀 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;
-  <img src="https://skillicons.dev/icons?i=c" /> C &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> CSS
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
-  <img src="https://skillicons.dev/icons?i=django" /> Django &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" /> Flask
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🧠 AI & Data Science
+### 🧠 AI & Data Science  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" /> NumPy &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" /> Pandas &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" /> Matplotlib &nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" /> Seaborn &nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" width="45" /> Scikit-learn
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C76AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" /> Postman &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" /> Figma &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" /> VS Code
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🎯 Highlights & Interests
 
-- Building full-stack apps that solve real problems
-- Understanding system workflows, database logic, and scalable application design
-- Exploring how AI integrates with modern web technologies
-- Passionate about clean UI, efficient code, and meaningful digital experiences
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaikrishna-j&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaikrishna-j&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikrishna-j&theme=react-dark" />
-</p>
+- Building full-stack apps that solve real problems  
+- Understanding logic behind system workflows and scalable backend design  
+- Exploring how AI integrates with modern web technologies  
+- Passionate about clean UI, efficient code, and impactful digital experiences
 
 ---
 
