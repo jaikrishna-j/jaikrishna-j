@@ -77,7 +77,7 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 - I learn faster by building things rather than just reading about them  
 - I document my code so future-me doesn’t hate past-me  
 - I often refactor projects even when they already work — “works” isn’t the same as “right”  
-- I get more excited shipping a feature than finishing a TV series  
+- I get more excited shipping a feature than finishing a Web series  
 
 ---
 
