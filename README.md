@@ -1,10 +1,4 @@
-<h1>
-  Hi, I'm 
-  <a href="https://www.linkedin.com/in/jaikrishna-j/" target="_blank" style="text-decoration: none; color: inherit;">
-    Jaikrishna
-  </a>
-  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" />
-</h1>
+<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Jaikrishna</h1>
 
 I’m an Information Technology student and full-stack developer who enjoys turning ideas into functional products. I focus on building scalable applications with clean architecture, logical problem-solving, and modern web technologies.
 
