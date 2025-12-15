@@ -3,29 +3,15 @@
 I’m an Information Technology student and full-stack developer who enjoys turning ideas into functional products. I focus on building scalable applications with clean architecture, logical problem-solving, and modern web technologies.
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-  <!-- LEFT SIDE CONTENT -->
-  <div style="flex: 1;">
-    <h2>🚀 What I'm Currently Doing</h2>
-    <ul>
-      <li>Learning advanced concepts in <b>AI/ML</b></li>
-      <li>Building full-stack applications with <b>React & Django</b></li>
-      <li>Exploring <b>Cloud deployments</b> and backend optimization</li>
-    </ul>
-  </div>
+<img align="right" width="320" height="260" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
 
-  <!-- RIGHT SIDE IMAGE -->
-  <div>
-    <img 
-      src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
-      alt="Banner"
-      width="180"
-      style="border-radius: 10px;"
-    />
-  </div>
+### 🚀 What I'm Currently Doing
 
-</div>
+- 🌱 Currently learning **AI/ML**, **Cloud Deployments**, and backend optimization
+- 💻 Building full-stack applications using **React & Django**
+- 🧠 Interested in clean architecture, system design, and scalable systems
+- ⚡ Fun fact: I refactor code even when it already works
 
 ## 🌐 Portfolio
 
