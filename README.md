@@ -5,13 +5,20 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ---
 
-<img align="right" width="320" height="260" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
+    width="360"
+    alt="Developer workspace"
+  />
+</p>
 
 ### 🚀 What I'm Currently Doing
 
 - 🌱 Currently learning **AI/ML**, **Cloud Deployments**, and backend optimization
 - 💻 Building full-stack applications using **React & Django**
 - 🧠 Interested in clean architecture, system design, and scalable systems
+
 
   
 ## 🌐 Portfolio
