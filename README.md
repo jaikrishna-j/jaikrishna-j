@@ -12,8 +12,8 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 - 🌱 Currently learning **AI/ML**, **Cloud Deployments**, and backend optimization
 - 💻 Building full-stack applications using **React & Django**
 - 🧠 Interested in clean architecture, system design, and scalable systems
-- ⚡ Fun fact: I refactor code even when it already works
 
+  
 ## 🌐 Portfolio
 
 📎 Visit my personal portfolio → **https://jaikrishna-portfolio.vercel.app/**
@@ -67,13 +67,12 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 
 ---
 
-## 🎉 Fun Facts About Me
+## 🎉 Fun Facts
 
-- I enjoy breaking complex problems into simple, logical steps — it's my version of fun  
-- I learn faster by building things rather than just reading about them  
-- I document my code so future-me doesn’t hate past-me  
-- I often refactor projects even when they already work — “works” isn’t the same as “right”  
-- I get more excited shipping a feature than finishing a Web series  
+- Coffee and tea never worked on me  
+- One Piece is my favorite anime  
+- I prefer staying active over staying idle  
+- I enjoy building things in my free time
 
 ---
 
