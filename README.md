@@ -47,7 +47,7 @@ I’m an Information Technology student and full-stack developer who enjoys turn
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🧠 AI & Data Science  
+### 🧠 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
