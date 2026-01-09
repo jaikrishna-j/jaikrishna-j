@@ -77,7 +77,6 @@ I’m an Information Technology student and full-stack developer who enjoys turn
 ## 🎉 Fun Facts
 
 - Coffee and tea never worked on me  
-- One Piece is my favorite anime  
 - I prefer staying active over staying idle  
 - I enjoy building things in my free time
 
