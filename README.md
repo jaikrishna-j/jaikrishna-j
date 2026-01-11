@@ -42,16 +42,16 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48"><br>Python
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48"><br>Java
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"><br>Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48"><br>C
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48"><br>JavaScript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"><br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48"><br>HTML
@@ -84,7 +84,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="48"><br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"><br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48"><br>Git
