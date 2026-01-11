@@ -18,7 +18,7 @@
 - 💬 Ask me about **Python Programming, Pandas, NumPy, Matplotlib, MySQL, Java**  
 - 📫 How to reach me **jaikrishnajaisankar2005@gmail.com**  
 - 📄 Check out my portfolio **https://jaikrishna-portfolio.vercel.app/**  
-- ⚡ Fun fact **Coffee and tea don’t work on me ☕❌**
+- ⚡ Fun fact **I tend to ask a lot of questions 😄**
 
 ---
 
